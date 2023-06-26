@@ -1,0 +1,2 @@
+python facemask.py
+pause
